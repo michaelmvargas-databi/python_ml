@@ -1,6 +1,7 @@
 streamlit
-joblit
+joblib
 plotly
 pandas
 xgboost
+
 openyxl
