@@ -3,4 +3,5 @@ joblib
 plotly
 pandas
 xgboost
-openyxl
+openpyxl
+xlsxwriter
