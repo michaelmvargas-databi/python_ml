@@ -1,0 +1,6 @@
+streamlit
+joblit
+plotly
+pandas
+xgboost
+openyxl
